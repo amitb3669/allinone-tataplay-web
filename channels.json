@@ -107,9 +107,9 @@
     "name": "Colors HD",
     "logo": "https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/Colors%20HD.webp",
     "group": "",
-    "url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/manifest.mpd",
-    "license_key": "27f0719986765b7eba6c470d3e94080e",
-    "license_key2": "b0b4e8285738927455337631ba392f6a"
+    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/manifest.mpd?begin=20240518T010000&end=20240531T160000",
+    "license_key": "ad3003d200c551ce8be3ffca76dcbddf",
+    "license_key2": "f27b169b191088c9f7f2d6d3c8cab4d2"
   },
   {
     "name": "Zee TV HD",
